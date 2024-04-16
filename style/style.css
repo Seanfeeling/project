@@ -2,6 +2,10 @@ p {
   color: aqua;
 }
 
+h1 {
+  font-size: 34px;
+}
+
 ul li {
   color: bisque;
 }/*# sourceMappingURL=style.css.map */
